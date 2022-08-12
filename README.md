@@ -1,4 +1,4 @@
-# C Programming Language. BMSTU, RK faculty, Tassov labs
+# C Programming Language. BMSTU, RK faculty, teacher: Tassov K. L.
 Programming assignments for "C Programming" course (RK faculty) taught by Kirill Tassov from BMSTU.
 
 ### Short description
