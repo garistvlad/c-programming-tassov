@@ -10,7 +10,7 @@ There is a nice guy, Tassov Kirill Leonidovich, who was my first lecturer in com
 
 ### Labs
 
-1. Point inside a triangle
+1. [Point inside a triangle](./lab-01/lab-01.md)
 2. Simple functions
 3. Integral and derivative
 4. Basic 1D arrays
