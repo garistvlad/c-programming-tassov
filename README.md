@@ -10,3 +10,16 @@ There is a nice guy, Tassov Kirill Leonidovich, who was my first lecturer in com
 
 ### Labs
 
+1. Point inside a triangle
+2. Simple functions
+3. Integral and derivative
+4. Basic 1D arrays
+5. 1D array sorting
+6. Basic 2D arrays
+7. Matrix operations
+8. Basic strings
+9. String methods
+10. Array of strings
+11. Text files
+12. Binary files without loading to memory
+13. Database (working with multiple files)
